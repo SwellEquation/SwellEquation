@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SwellEquation
-- 👀 I’m interested in BeatSaber, CyberSecurity, gaming, hardware modification, and modding
-- 🌱 I’m currently learning how to draw and beatsaber skills
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in BeatSaber, CyberSecurity, fnf modding, game development, and hardware modification
+- 🌱 I’m currently learning how to draw, make FNF mods, create BeatSaber charts, and how to use VSC.
+- 💞️ I’m looking to collaborate on my FNF mod when I feel like I'm in a good place to create a team
 - 📫 How to reach me: Discord @swellequation 
 
 <!---
