@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SwellEquation
 - 👀 I’m interested in BeatSaber, CyberSecurity, fnf modding, software development, game development, and hardware modding
-- 🌱 I’m currently learning REACT js, VSC, and JavaScript
+- 🌱 I’m currently learning React, VSC, and JavaScript
 - 📫 How to reach me: Discord @swellequation 
 
 <!---
