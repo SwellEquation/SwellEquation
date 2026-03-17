@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Fabian AKA SwellEquation
+- 👋 Hi, I’m Fabian AKA Felix R
 - 👀 I’m interested in software development, game development, Cybersecurity, and hardware modding
 - 🌱 I’m currently learning React, JavaScript, and ANSI C
-- 📫 How to reach me: Discord @swellequation email: FabianR132@outlook.com
+- 📫 How to reach me: email: FabianR132@outlook.com
 
 <!---
 SwellEquation/SwellEquation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
