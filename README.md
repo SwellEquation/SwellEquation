@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Fabian AKA Felix R
-- 👀 I’m interested in software development, game development, Cybersecurity, and hardware modding
-- 🌱 I’m currently learning React, HTML/CSS/Javascript, Express, C, and Java
+Cybersecurity BS holder learning React, Vite, Express, and Onshape
 
 <!---
 SwellEquation/SwellEquation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
